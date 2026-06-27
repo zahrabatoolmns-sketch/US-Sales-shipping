@@ -3,7 +3,7 @@
 ## Overview
 This is a comprehensive **Power BI Dashboard Project** focused on analyzing shipping and logistics data. The goal of this project is to provide actionable insights into logistics operations, monitor delivery performance, and analyze shipping costs to drive better business decisions.
 
-The project covers the entire data pipeline—from raw data cleaning and transformation to data modeling and building an interactive user interface.
+The project covers the entire data pipeline from raw data cleaning and transformation to data modeling and building an interactive user interface.
 
 ##  Key Features
 * **Delivery Performance Analysis:** Track and analyze on-time deliveries versus delays to identify operational bottlenecks.
@@ -23,8 +23,6 @@ The project covers the entire data pipeline—from raw data cleaning and transfo
 * `shipping.pbix`: The core Power BI file containing the dataset, data model, and interactive report tabs.
 * `Report/Layout`: The backend configuration file defining the visual structure and element positioning.
 * `Themes/`: Houses custom JSON themes (including Copilot Default settings) used to apply consistent, modern styling.
-
----
 
 ## How to View the Project
 1. Download and install the latest version of **Power BI Desktop**.
